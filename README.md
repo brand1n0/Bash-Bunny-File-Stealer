@@ -1,5 +1,8 @@
 # Bash-Bunny-File-Stealer
+
 Steal files of your choice 
+
+This script is currently set to steal all excel files from the documents folder.
 
 You can change the folder you want to steal files from and change 
 the file extenttion of the files you want to steal. 
